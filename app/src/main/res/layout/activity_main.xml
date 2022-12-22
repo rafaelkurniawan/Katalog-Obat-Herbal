@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/splashscreen_background"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/card1"
+                android:layout_width="174dp"
+                android:layout_height="222dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="20dp"
+                android:backgroundTint="#009A62"
+                app:cardCornerRadius="25dp">
+
+                <ImageView
+                    android:id="@+id/jamu1"
+                    android:layout_width="141dp"
+                    android:layout_height="147dp"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="10dp"
+                    android:contentDescription="@string/jamu1"
+                    app:srcCompat="@drawable/jamu1" />
+
+                <TextView
+                    android:id="@+id/jamu"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="175dp"
+                    android:fontFamily="serif"
+                    android:text="@string/jamu"
+                    android:textColor="#000000"
+                    android:textSize="16sp"
+                    android:textStyle="bold" />
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/card2"
+                android:layout_width="174dp"
+                android:layout_height="222dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:backgroundTint="#009A62"
+                app:cardCornerRadius="25dp">
+
+                <ImageView
+                    android:id="@+id/oht1"
+                    android:layout_width="141dp"
+                    android:layout_height="147dp"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="10dp"
+                    android:contentDescription="@string/oht1"
+                    app:srcCompat="@drawable/oht1" />
+
+                <TextView
+                    android:id="@+id/obat"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="170dp"
+                    android:fontFamily="serif"
+                    android:foregroundGravity="center"
+                    android:gravity="center"
+                    android:text="@string/obat"
+                    android:textColor="#000000"
+                    android:textSize="16sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/herbalstd"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="190dp"
+                    android:fontFamily="serif"
+                    android:gravity="center"
+                    android:text="@string/herbalstd"
+                    android:textColor="#000000"
+                    android:textSize="16sp"
+                    android:textStyle="bold" />
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/card3"
+                android:layout_width="174dp"
+                android:layout_height="222dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:backgroundTint="#009A62"
+                app:cardCornerRadius="25dp">
+
+                <ImageView
+                    android:id="@+id/fito1"
+                    android:layout_width="141dp"
+                    android:layout_height="147dp"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="10dp"
+                    android:contentDescription="@string/fito1"
+                    app:srcCompat="@drawable/fito1" />
+
+                <TextView
+                    android:id="@+id/fitofarmaka"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="175dp"
+                    android:fontFamily="serif"
+                    android:text="@string/fitofarmaka"
+                    android:textColor="#000000"
+                    android:textSize="16sp"
+                    android:textStyle="bold" />
+            </androidx.cardview.widget.CardView>
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

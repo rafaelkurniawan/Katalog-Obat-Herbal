@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">UAS</string>
+    <string name="logoUNS"></string>
+
+    //SplashScreen2
+    <string name="kelompok4">Kelompok IV</string>
+    <string name="praktik">PRAKTIK</string>
+    <string name="appmobile">APLIKASI MOBILE</string>
+    <string name="anggota1">Nadia Elia M</string>
+    <string name="nim1">V3421068</string>
+    <string name="anggota2">Rafael Kurniawan AP</string>
+    <string name="nim2">V3421076</string>
+    <string name="anggota3">Reza Liana</string>
+    <string name="nim3">V3421082</string>
+    <string name="anggota4">Satrio Adik A</string>
+    <string name="nim4">V3421085</string>
+
+    //StartPage
+    <string name="katalog">KATALOG</string>
+    <string name="obatherbal">OBAT HERBAL</string>
+    <string name="play"></string>
+
+    //MainActivity
+    //Foto
+    <string name="jamu1"></string>
+    <string name="oht1"></string>
+    <string name="fito1"></string>
+    //nama
+    <string name="jamu">JAMU</string>
+    <string name="fitofarmaka">FITOFARMAKA</string>
+    <string name="obat">OBAT HERBAL</string>
+    <string name="herbalstd">TERSTANDAR</string>
+
+    //jamu
+    <string name="hal1jamu">1</string>
+    <string name="hal2jamu">2</string>
+    <string name="hal3jamu">3</string>
+    <string name="hal4jamu">4</string>
+    <string name="circle"></string>
+
+    //fitofarmaka
+    <string name="hal1fito">1</string>
+
+    //oht
+    <string name="hal1oht">1</string>
+
+    //HalamanDeskripsi
+    <string name="btn_back">Kembali</string>
+    <string name="komposisi">Komposisi :</string>
+    <string name="ptnjk">Petunjuk Penggunaan :</string>
+</resources>

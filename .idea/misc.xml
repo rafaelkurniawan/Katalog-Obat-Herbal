@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/UNS/Semester3/App Mobile/TugasBesar/app/src/main/res/drawable/circle_shape.xml" value="0.2985" />
+        <entry key="..\:/UNS/Semester3/App Mobile/TugasBesar/app/src/main/res/drawable/cricle_shape.xml" value="0.2985" />
+        <entry key="..\:/UNS/Semester3/App Mobile/TugasBesar/app/src/main/res/drawable/splashscreen_background.xml" value="0.2985" />
+        <entry key="..\:/UNS/Semester3/App Mobile/TugasBesar/app/src/main/res/layout/activity_fitofarmaka1.xml" value="0.33" />
+        <entry key="..\:/UNS/Semester3/App Mobile/TugasBesar/app/src/main/res/layout/activity_fitofarmaka2.xml" value="0.1" />
+        <entry key="..\:/UNS/Semester3/App Mobile/TugasBesar/app/src/main/res/layout/activity_jamu1.xml" value="0.3625" />
+        <entry key="..\:/UNS/Semester3/App Mobile/TugasBesar/app/src/main/res/layout/activity_jamu2.xml" value="0.3625" />
+        <entry key="..\:/UNS/Semester3/App Mobile/TugasBesar/app/src/main/res/layout/activity_jamu3.xml" value="0.3625" />
+        <entry key="..\:/UNS/Semester3/App Mobile/TugasBesar/app/src/main/res/layout/activity_jamu4.xml" value="0.3625" />
+        <entry key="..\:/UNS/Semester3/App Mobile/TugasBesar/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/UNS/Semester3/App Mobile/TugasBesar/app/src/main/res/layout/activity_obat_fito1.xml" value="0.3179347826086957" />
+        <entry key="..\:/UNS/Semester3/App Mobile/TugasBesar/app/src/main/res/layout/activity_obat_fito2.xml" value="0.3179347826086957" />
+        <entry key="..\:/UNS/Semester3/App Mobile/TugasBesar/app/src/main/res/layout/activity_obat_fito3.xml" value="0.3179347826086957" />
+        <entry key="..\:/UNS/Semester3/App Mobile/TugasBesar/app/src/main/res/layout/activity_obat_fito4.xml" value="0.3179347826086957" />
+        <entry key="..\:/UNS/Semester3/App Mobile/TugasBesar/app/src/main/res/layout/activity_obat_fito5.xml" value="0.3179347826086957" />
+        <entry key="..\:/UNS/Semester3/App Mobile/TugasBesar/app/src/main/res/layout/activity_obat_fito6.xml" value="0.3179347826086957" />
+        <entry key="..\:/UNS/Semester3/App Mobile/TugasBesar/app/src/main/res/layout/activity_obat_jamu1.xml" value="0.25" />
+        <entry key="..\:/UNS/Semester3/App Mobile/TugasBesar/app/src/main/res/layout/activity_obat_jamu10.xml" value="0.3179347826086957" />
+        <entry key="..\:/UNS/Semester3/App Mobile/TugasBesar/app/src/main/res/layout/activity_obat_jamu11.xml" value="0.3179347826086957" />
+        <entry key="..\:/UNS/Semester3/App Mobile/TugasBesar/app/src/main/res/layout/activity_obat_jamu12.xml" value="0.3179347826086957" />
+        <entry key="..\:/UNS/Semester3/App Mobile/TugasBesar/app/src/main/res/layout/activity_obat_jamu13.xml" value="0.3179347826086957" />
+        <entry key="..\:/UNS/Semester3/App Mobile/TugasBesar/app/src/main/res/layout/activity_obat_jamu14.xml" value="0.3179347826086957" />
+        <entry key="..\:/UNS/Semester3/App Mobile/TugasBesar/app/src/main/res/layout/activity_obat_jamu15.xml" value="0.3179347826086957" />
+        <entry key="..\:/UNS/Semester3/App Mobile/TugasBesar/app/src/main/res/layout/activity_obat_jamu16.xml" value="0.3179347826086957" />
+        <entry key="..\:/UNS/Semester3/App Mobile/TugasBesar/app/src/main/res/layout/activity_obat_jamu17.xml" value="0.3179347826086957" />
+        <entry key="..\:/UNS/Semester3/App Mobile/TugasBesar/app/src/main/res/layout/activity_obat_jamu18.xml" value="0.3179347826086957" />
+        <entry key="..\:/UNS/Semester3/App Mobile/TugasBesar/app/src/main/res/layout/activity_obat_jamu2.xml" value="0.3179347826086957" />
+        <entry key="..\:/UNS/Semester3/App Mobile/TugasBesar/app/src/main/res/layout/activity_obat_jamu3.xml" value="0.3179347826086957" />
+        <entry key="..\:/UNS/Semester3/App Mobile/TugasBesar/app/src/main/res/layout/activity_obat_jamu4.xml" value="0.3179347826086957" />
+        <entry key="..\:/UNS/Semester3/App Mobile/TugasBesar/app/src/main/res/layout/activity_obat_jamu5.xml" value="0.3179347826086957" />
+        <entry key="..\:/UNS/Semester3/App Mobile/TugasBesar/app/src/main/res/layout/activity_obat_jamu6.xml" value="0.3179347826086957" />
+        <entry key="..\:/UNS/Semester3/App Mobile/TugasBesar/app/src/main/res/layout/activity_obat_jamu7.xml" value="0.3179347826086957" />
+        <entry key="..\:/UNS/Semester3/App Mobile/TugasBesar/app/src/main/res/layout/activity_obat_jamu8.xml" value="0.3179347826086957" />
+        <entry key="..\:/UNS/Semester3/App Mobile/TugasBesar/app/src/main/res/layout/activity_obat_jamu9.xml" value="0.3179347826086957" />
+        <entry key="..\:/UNS/Semester3/App Mobile/TugasBesar/app/src/main/res/layout/activity_obat_oht1.xml" value="0.3179347826086957" />
+        <entry key="..\:/UNS/Semester3/App Mobile/TugasBesar/app/src/main/res/layout/activity_obat_oht2.xml" value="0.3179347826086957" />
+        <entry key="..\:/UNS/Semester3/App Mobile/TugasBesar/app/src/main/res/layout/activity_obat_oht3.xml" value="0.3179347826086957" />
+        <entry key="..\:/UNS/Semester3/App Mobile/TugasBesar/app/src/main/res/layout/activity_obat_oht4.xml" value="0.3179347826086957" />
+        <entry key="..\:/UNS/Semester3/App Mobile/TugasBesar/app/src/main/res/layout/activity_obat_oht5.xml" value="0.3179347826086957" />
+        <entry key="..\:/UNS/Semester3/App Mobile/TugasBesar/app/src/main/res/layout/activity_obat_oht6.xml" value="0.3179347826086957" />
+        <entry key="..\:/UNS/Semester3/App Mobile/TugasBesar/app/src/main/res/layout/activity_oht1.xml" value="0.25" />
+        <entry key="..\:/UNS/Semester3/App Mobile/TugasBesar/app/src/main/res/layout/activity_splash_screen1.xml" value="0.3179347826086957" />
+        <entry key="..\:/UNS/Semester3/App Mobile/TugasBesar/app/src/main/res/layout/activity_splash_screen2.xml" value="0.25" />
+        <entry key="..\:/UNS/Semester3/App Mobile/TugasBesar/app/src/main/res/layout/activity_start_page.xml" value="0.25" />
+        <entry key="..\:/UNS/Semester3/App Mobile/TugasBesar/app/src/main/res/layout/splashscreen_background.xml" value="0.23975409836065573" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
